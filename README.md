@@ -18,3 +18,5 @@ All Glory to Lord Jesus Christ.
 1. Github :  https://github.com/KJC-DNN/Album102_Blessed_Be_Your_Name/releases/tag/102.0.0
 2. Archive.org : https://archive.org/details/album-102-blessed-be-your-name-main-cover.jpg
 3. Zenodo : https://doi.org/10.5281/zenodo.23415238
+
+# Instrumentals avaiable here: [https://github.com/KJC-DNN/Album103_Instrumentals_The_Hope_Is_His/edit/main/README.md](https://github.com/KJC-DNN/Album103_Instrumentals_The_Hope_Is_His/blob/main/README.md)
