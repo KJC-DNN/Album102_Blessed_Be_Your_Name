@@ -19,5 +19,3 @@ All Glory to Lord Jesus Christ.
 2. Archive.org : https://archive.org/details/album-102-blessed-be-your-name-main-cover.jpg
 3. Zenodo : https://doi.org/10.5281/zenodo.23415238
    
-## Instrumentals
-https://github.com/KJC-DNN/Albums92-101_Instrumentals
